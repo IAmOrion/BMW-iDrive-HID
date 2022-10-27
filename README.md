@@ -1,4 +1,4 @@
-# BMW-iDrive-BLE-HID
+# BMW-iDrive-HID
 
 Created by: James Tanner aka IAmOrion
 https://www.facebook.com/TheMeroving1an
